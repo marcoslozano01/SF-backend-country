@@ -11,6 +11,8 @@ Crea el entorno virtual e instala las dependencias con
 
 ## Running
 
+En el archivo config se debe proveer una URI a un servidor mysql local.
+
 Para ejecutar la API en local.
 
 ```python
